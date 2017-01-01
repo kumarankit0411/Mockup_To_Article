@@ -12,7 +12,6 @@ You've learned a lot about web development so far. I want you to take a moment t
  
 
 * What has been difficult?
-
   - Umm, That's tough to answer. Because so far, nothing seemed difficult.
  
 * How have you used the problem solving strategies from the first project to overcome challenges so far?
